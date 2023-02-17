@@ -3,7 +3,7 @@ import Card from 'react-bootstrap/Card';
 
 export default function Portfolio() {
   return (
-    <div>
+    <div className="container flex-column justify-space-between-lg justify-center align-center text-center">
       <h1>Portfolio</h1>
       <p>
         Here is a collection of my work.
