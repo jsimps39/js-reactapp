@@ -3,7 +3,7 @@ import React from 'react';
 const styles = {
   p: {
     margin: 32,
-    fontSize: 24
+    fontSize: 20
   }
 }
 
@@ -18,12 +18,8 @@ export default function About() {
       <p style={styles.p} className="text-center">
       Hello and welcome to my About Me page!
 
-My name is James Simpson, and I'm a web developer based in the United States. I've been passionate about coding and web development since I was young, and I've spent the last few years honing my skills and building websites for clients of all types.
-
+My name is James Simpson, and I'm a web developer based in Charlotte, North Carolina. I've been passionate about coding and web development since I was young, and I've spent the last few years honing my skills and building websites for clients of all types.
 I specialize in front-end web development, but I'm also proficient in back-end development and have experience with a variety of programming languages and frameworks, including HTML, CSS, JavaScript, React, Node.js, and more. I enjoy taking on challenging projects and working with clients to bring their vision to life.
-
-When I'm not coding, I enjoy staying up-to-date on the latest web development trends and attending industry conferences and events. I'm always looking for ways to improve my skills and stay ahead of the curve.
-
 If you're interested in working with me, please don't hesitate to reach out. I'm always excited to take on new projects and help businesses and individuals create beautiful, functional websites that meet their needs and exceed their expectations. Thank you for visiting my page, and I hope to hear from you soon!
 
       </p>
