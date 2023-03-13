@@ -1,0 +1,27 @@
+img {
+    max-width: 100%;
+}
+
+.noteTakerPicture {
+    width: 200px;
+}
+
+.workDay {
+    width: 200px;
+}
+
+.Centaur {
+    width: 200px;
+}
+
+.comingSoon {
+    width: 200px;
+}
+
+.card-grid-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+  }
+  
